@@ -1,5 +1,10 @@
 ## Hi there 👋
 
+- Im hummus
+- I know css/js/html
+- yeah thats about it
+
+
 <!--
 **hummusphere/hummusphere** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
