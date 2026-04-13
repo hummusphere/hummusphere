@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-- Im hummus
+- 🌊 I'm hummus
 - I know css/js/html
 - yeah thats about it
 
