@@ -1,7 +1,7 @@
 ## Hi there 👋
 
 - 🌊 I'm hummus
-- I know css/js/html
+- 🔭 I mostly work with js, css, and html
 - yeah thats about it
 
 
