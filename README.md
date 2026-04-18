@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-- 🌊 I'm hummus
+- 🌊 I'm humdan, I go by hummus online
 - 🔭 I mostly work with js, css, and html
 - 🌱 My favorite color is green
 - yeah thats about it
