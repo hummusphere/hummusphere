@@ -2,6 +2,7 @@
 
 - 🌊 I'm hummus
 - 🔭 I mostly work with js, css, and html
+- 🌱 My favorite color is green
 - yeah thats about it
 
 
