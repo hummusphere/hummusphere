@@ -2,6 +2,7 @@
 
 - 🌊 I'm humdan, I go by hummus online
 - 🔭 I mostly work with js, css, and html
+- ⚡ Working to become skilled in python and c
 - 🌱 My favorite color is green
 
 
