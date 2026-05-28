@@ -1,9 +1,10 @@
 ## Hi there 👋
 
 - 🌊 I'm humdan, I go by hummus online
-- 🔭 I mostly work with js, css, and html
-- ⚡ Working to become skilled in python and c
+- 🔭 I mostly work with js, python, and assembly
+- ⚡ Working to become skilled c
 - 🌱 My favorite color is green
+- 📫 Check out my favorite projects below:
 
 
 <!--
