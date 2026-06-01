@@ -1,10 +1,15 @@
 ## Hi there 👋
 
-- 🌊 I'm humdan, I go by hummus online
+- 🌊 I'm Humdan, I go by hummus online
 - 🔭 I mostly work with js, python, and assembly
 - ⚡ Working to become skilled c
 - 🌱 My favorite color is green
-- 📫 Check out my favorite projects below:
+
+## What I am working on:
+- hummusphere website
+- rotating 3d terminal cube
+
+## 📫 Check out my favorite projects below:
 
 
 <!--
