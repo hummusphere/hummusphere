@@ -4,9 +4,9 @@
 
 - 🌊 I'm Humdan, I go by hummus online
 - 🔭 I mostly work with js, c, and assembly
-- 🌱 My favorite color is green
+- 🌱 My favorite color is green if you couldn't tell
 
-## What I am working on:
+## What I am working on rn:
 - hummusphere website
 - rotating 3d terminal cube
 
