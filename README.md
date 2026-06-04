@@ -1,3 +1,5 @@
+<img src="https://github.com/hummusphere/hummusphere/blob/main/banner-slim.png?">
+
 ## Hi there 👋
 
 - 🌊 I'm Humdan, I go by hummus online
