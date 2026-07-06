@@ -1,17 +1,17 @@
+# Hi there 👋
+
 <img src="https://github.com/hummusphere/hummusphere/blob/main/banner-slim.png?">
 
-## Hi there 👋
+## About Me
 
-- 🌊 I'm Humdan, I go by hummus online
-- 🔭 I mostly work with js, c, and assembly
+- 🌊 I'm Humdan, I go by Hummus online
+- 🔭 I mostly work with Js, C, and Assembly
 - 🌱 My favorite color is green if you couldn't tell
 
-## What I am working on rn:
-- hummusphere website
-- rotating 3d terminal cube
-
-## 📫 Check out my favorite projects below:
-
+## What I'm Working on Now
+- Hummusphere Website
+- Project Euler Problems
+- Tryhackme modules
 
 <!--
 **hummusphere/hummusphere** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
