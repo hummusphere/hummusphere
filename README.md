@@ -8,11 +8,6 @@
 - 🔭 I mostly work with Js, C, and Assembly
 - 🌱 My favorite color is green if you couldn't tell
 
-## What I'm Working on Now
-- Hummusphere Website
-- Project Euler Problems
-- Tryhackme modules
-
 <!--
 **hummusphere/hummusphere** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
