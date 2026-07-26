@@ -1,5 +1,7 @@
 # Hi there 👋
 
+<img src="https://github.com/hummusphere/hummusphere/blob/main/github-banner.png?">
+
 ## About Me
 
 - 🌊 I'm Humdan, I go by Hummus online
