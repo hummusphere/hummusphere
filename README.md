@@ -7,7 +7,11 @@
 - 🌊 I'm Humdan
 - 🏝️ CS student at Rensselaer Polytechnic Institute
 - 🔭 I mostly work with JavaScript, Python, and C
-- 🌱 My favorite color is green
+
+Try this command:
+```
+  nslookup -q=txt trivia.hummusphere.org
+```
 
 <!--
 **hummusphere/hummusphere** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
