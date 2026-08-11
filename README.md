@@ -1,6 +1,6 @@
 # Hi there 👋
 
-<img src="https://github.com/hummusphere/hummusphere/blob/main/github-banner.png?">
+<img src="https://github.com/hummusphere/hummusphere/blob/main/banner-slim.png?">
 
 ## About Me
 
