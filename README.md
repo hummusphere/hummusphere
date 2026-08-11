@@ -6,7 +6,7 @@
 
 - 🌊 I'm Humdan
 - 🏝️ CS student at Rensselaer Polytechnic Institute
-- 🔭 I mostly work with JavaScript, Python, and C.
+- 🔭 I mostly work with JavaScript, Python, and C
 - 🌱 My favorite color is green
 
 <!--
