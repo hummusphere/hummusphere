@@ -5,12 +5,9 @@
 ## About Me
 
 - 🌊 I'm Humdan
-- 🔭 I mostly work with Js, C, and Python
 - 🏝️ CS student at Rensselaer Polytechnic Institute
-- 🌱 My favorite color is green if you couldn't tell 
-
-## Contact Me
-- 📞 Message me at hummusphere on discord
+- 🔭 I mostly work with Js, C, and Python
+- 🌱 My favorite color is green
 
 <!--
 **hummusphere/hummusphere** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
